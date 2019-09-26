@@ -1,5 +1,8 @@
 I'm begginer in react so I have made this game just to learn react js.
-![Drag Racing](fb.png)
+![Drag Racing](players.png)
+
+![Drag Racing](game.png)
+
 
 ## You  can play this game https://naresh0101-tic-toe.glitch.me/
 
