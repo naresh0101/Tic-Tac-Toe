@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I'm begginer in react so I have made this game just to learn react js.
+## You  can play this game https://naresh0101-tic-toe.glitch.me/
 
 ## Available Scripts
 
