@@ -1,0 +1,108 @@
+/* choice button */
+body{
+  background: black;
+  color: white;
+}
+#playerchoice{
+    border-style: none;
+    margin:10px;
+    background:red;
+    color:white;
+    cursor:pointer;
+    border-radius:5px;
+    padding-left:20px;
+    padding-right:20px;
+    text-transform: capitalize;
+  }
+  #playerchoice:focus{
+    outline: none;
+  }
+  
+  /* game board */
+  
+  table{
+    margin-top:60px;
+  }
+  .field{
+    border: solid 1px black;
+    width:100px;
+    height:100px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bolder;
+  }
+  
+
+  /* players registration */
+  .card {
+    box-shadow: 0 8px 16px 0 #e40648;
+    transition: 0.7s;
+    width: 450px;
+    padding-top:30px;
+    padding-bottom:30px;
+    border-radius: 5px;
+    margin-top:200px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .card input{
+      padding:10px;
+      border-style: none;
+      font-size:15px;
+      width:300px;
+      background: none;
+      color: white;
+      text-transform:capitalize;
+      font-weight:bolder;
+      background:black;
+
+
+  }
+  .card input:hover{
+    border-bottom-style: solid;
+      border-bottom-color:red;
+  }
+  .card input:focus{
+      outline: none;
+  }
+  
+
+  
+  .card:hover {
+    box-shadow: 10 98px 16px 20px rgba(226, 2, 2, 0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+.Next{
+  float:right;
+  font-size:20px;
+  padding:5px;
+  width:100px;
+  margin-top:10px;
+  transition: 0.7s;
+  border-style:none;
+  border-radius:5px;
+  background: rgb(197, 9, 41);
+  color: white;
+}
+
+
+.field{
+  border-style: solid;
+  border-color: #e40648;
+  color: white;
+}
+
+.logo{
+  border-radius: 50%;
+}
